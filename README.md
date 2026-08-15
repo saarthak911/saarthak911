@@ -1,4 +1,52 @@
+ Hi, I'm Sarthak Sajwan
+ Aspiring AI/ML Engineer | BCA Student | Frontend Devloper |
 
+I'm a BCA student passionate about Machine Learning, Artificial Intelligence, Data Science, Data structure and Algo., Database, Frontend, and Backend Development.
+
+I enjoy building practical projects that combine machine learning models with APIs, databases, and user-friendly web interfaces. I'm currently strengthening my skills in ML, Python, DSA, DBMS, and backend development.
+
+🚀 Featured Projects
+🏦 Loan Approval Prediction System
+
+A machine learning-based application that predicts whether a loan application is likely to be approved based on applicant information.
+
+Tech: Python • Pandas • NumPy • Scikit-learn • FastAPI • HTML • CSS • JavaScript
+
+🔗 View Project
+
+🎓 EarlyDrop-AI
+AI-powered student dropout prediction system designed to identify students who may be at risk of dropping out.
+
+Tech: Python • Pandas • Scikit-learn • Random Forest • FastAPI • PostgreSQL
+🔗 View Project
+
+🏦 Churn Prediction System
+A machine learning system that predicts customer churn based on customer and service-related features.
+
+The project focuses on the complete ML workflow, from data preprocessing and model training to prediction and backend integration.
+
+Tech: Python • Pandas • NumPy • Scikit-learn • FastAPI • PostgreSQL • Joblib
+
+🔗 View Project
+
+✈️ Airline Reservation System
+
+A C-based airline reservation system developed to handle passenger information, seat booking, and file management.
+
+Tech: C • Structures • File Handling • Arrays • Functions
+
+ Currently Learning:-
+ Machine Learning
+ Deep Learning
+ Data Science
+ Mathematics for Machine Learning
+ Advanced Python
+ Backend Development
+ REST APIs with FastAPI
+ SQL & Database Management
+ ML Model Deployment
+ Data Structures & Algorithms
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sarthak0_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SaarthakSajwan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajwansarthak0@gmail.com ) 
 

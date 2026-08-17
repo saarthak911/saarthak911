@@ -47,14 +47,12 @@ Tech: C • Structures • File Handling • Arrays • Functions
 
  Currently Learning:-
  Machine Learning
- DSA using C++
  Data Science
  Mathematics for Machine Learning
  Backend Development
- REST APIs with FastAPI
  SQL & Database Management
  ML Model Deployment
- Data Structures & Algorithms
+ Data Structures & Algorithms using c++
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sarthak0_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SaarthakSajwan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajwansarthak0@gmail.com ) 

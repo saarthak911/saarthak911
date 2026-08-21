@@ -7,9 +7,9 @@ I'm a BCA student passionate about Machine Learning, Artificial Intelligence, Da
 I enjoy building practical projects that combine machine learning models with APIs, databases, and user-friendly web interfaces. I'm currently strengthening my skills in ML, Python, DSA, DBMS, and backend development.
 
 
-🚀 Featured Projects
+ Featured Projects
 
-🏦 Loan Approval Prediction System
+ Loan Approval Prediction System
 
 A machine learning-based application that predicts whether a loan application is likely to be approved based on applicant information.
 Tech: Python • Pandas • NumPy • Scikit-learn • FastAPI • HTML • CSS • JavaScript
@@ -18,7 +18,7 @@ Tech: Python • Pandas • NumPy • Scikit-learn • FastAPI • HTML • CSS 
 
 
 
-🎓 EarlyDrop-AI
+ EarlyDrop-AI
 
 AI-powered student dropout prediction system designed to identify students who may be at risk of dropping out.
 Tech: Python • Pandas • Scikit-learn • Random Forest • FastAPI • PostgreSQL
@@ -27,7 +27,7 @@ Tech: Python • Pandas • Scikit-learn • Random Forest • FastAPI • Postg
 
 
 
-🏦 Churn Prediction System
+ Churn Prediction System
 
 A machine learning system that predicts customer churn based on customer and service-related features.
 The project focuses on the complete ML workflow, from data preprocessing and model training to prediction and backend integration.
@@ -38,7 +38,7 @@ Tech: Python • Pandas • NumPy • Scikit-learn • FastAPI • PostgreSQL �
 
 
 
-✈️ Airline Reservation System
+ Airline Reservation System
 
 A C-based airline reservation system developed to handle passenger information, seat booking, and file management.
 Tech: C • Structures • File Handling • Arrays • Functions
